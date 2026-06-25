@@ -1,0 +1,24 @@
+#include <stdio.h>
+int main()
+{
+    int n, i, sum = 0, temp;
+    printf("enter a number: ");
+    scanf("%d", &n);
+    temp = n;
+    for (i = 1; i <= n / 2; i++)
+    {
+        if (n % i == 0)
+        {
+            sum = sum + i;
+        }
+    }
+    if (temp == sum)
+    {
+        printf("number is perfect.");
+    }
+    else
+    {
+        printf("number is not perfect");
+    }
+    return 0;
+}
