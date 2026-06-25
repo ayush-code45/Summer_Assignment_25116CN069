@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/AYUSH VISHWAKARMA/OneDrive/Documenti/GitHub/Summer_Assignment_25116CN069/DAY 16",
-      "program": "c:/Users/AYUSH VISHWAKARMA/OneDrive/Documenti/GitHub/Summer_Assignment_25116CN069/DAY 16/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
